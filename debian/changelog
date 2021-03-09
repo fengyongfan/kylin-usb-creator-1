@@ -1,3 +1,9 @@
+kylin-usb-creator (1.1.0-3kord) v101; urgency=medium
+
+  * 解决禅道BUG#41571 主题改变导致U盘U盘启动器界面字体模糊显示
+
+ -- fengyongfan123 <fengyongfan@kylinos.cn>  Tue, 09 Mar 2021 10:41:46 +0800
+
 kylin-usb-creator (1.1.0-2kord) v101; urgency=medium
 
   * 取消限制应用字体，字体大小全部跟随主题

@@ -229,6 +229,6 @@ void Page2::setThemeStyleDark()
     qDebug()<<"void Page2::setThemeStyleDark()";
     themeStatus = DARKTHEME;
     lableNum->setStyleSheet("background-color:rgba(236, 236, 236,0);color:rgba(100, 105, 241, 1);");
-    lableText->setStyleSheet("color:rgba(249,249,249,1);");
+//    lableText->setStyleSheet("color:rgba(249,249,249,1);");
     movieRefresh();
 }
